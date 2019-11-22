@@ -1,0 +1,9 @@
+@import "spectre.css";
+
+.app-content .panel {
+  height: 100vh;
+}
+
+.panel {
+  border: 0;
+}
